@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/FajarTheGGman/Termux-GUI/blob/master/.image/Screenshot_2019-02-24-13-23-01-303_com.realvnc.viewer.android.png)
 
-#Tutorial Install
+# Tutorial Install
 <pre>
 1.pkg install git -y
 2.git clone https://github.com/FajarTheGGman/Termux-GUI
