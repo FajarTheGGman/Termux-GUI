@@ -1,3 +1,4 @@
 #!/usr/bin/bash
 apt-get install nodejs -y
 mv fbox.js $HOME
+cd
