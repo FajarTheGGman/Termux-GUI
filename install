@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-apt-get install nodejs -y
+apt-get install nodejs x11-repo -y
 mv fbox.js $HOME
-cd
+cd $HOME
