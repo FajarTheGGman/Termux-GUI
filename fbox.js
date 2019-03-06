@@ -4,9 +4,7 @@ console.log("installing package.....")
 shell.exec("apt-get install fluxbox tigervnc openbox pypanel xorg-xsetroot curl -y");
 
 shell.exec("curl 'https://d-07.winudf.com/b/apk/Y29tLmtlZXB2aWQuc3R1ZGlvXzMwXzNkNjIwNjg2?_fn=S2VlcFZpZCBWaWRlbyBEb3dubG9hZGVyX3YzLjEuMy4wX2Fwa3B1cmUuY29tLmFwaw&_p=Y29tLmtlZXB2aWQuc3R1ZGlv&as=c7cca94f185ee9e4fd9b817faf6ea1445c7de3c3&c=1%7CTOOLS%7CZGV2PUtlZXBWaWQlMjBTdHVkaW8mdD1hcGsmdm49My4xLjMuMCZ2Yz0zMA&k=eeae36de60d9d3499a2fc2c7485c8f585c80fea0' -o vncviewer.apk");
-setTimeout(
 shell.exec("mv vncviewer.apk /storage/emulated/0");
-),2000);
 
 shell.exec("vncserver");
 shell.cd(".vnc");
