@@ -1,5 +1,5 @@
 # Termux-GUI
-#Simple program to setup grapichal user interface ini android
+#Simple program to setup grapichal user interface in android
 
 ![alt text](https://github.com/FajarTheGGman/Termux-GUI/blob/master/.image/Screenshot_2019-02-24-13-23-01-303_com.realvnc.viewer.android.png)
 
