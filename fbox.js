@@ -10,7 +10,6 @@ shell.exec("vncserver");
 shell.cd(".vnc");
 shell.rm("xstartup");
 shell.exec("curl https://pastebin.com/raw/NaS18BrG -o xstartup");
-shel.exec("vncserver");
 console.log("Graphical user interface setup by fajar firdaus")
 console.log("")
 console.log("[===================]")
